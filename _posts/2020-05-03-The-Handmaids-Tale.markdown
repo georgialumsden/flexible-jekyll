@@ -4,7 +4,7 @@ title: The Handmaid's Tale
 author: Margaret Atwood
 rating: 4.5/5
 date: 2020-05-03 13:32:20 +0300
-description: My first post! # Add post description (optional)
-img: wtcs2.png # Add image post (optional)
+description: # Add post description (optional)
+img: tht.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 ---
