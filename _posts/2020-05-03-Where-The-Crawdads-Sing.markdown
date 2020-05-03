@@ -3,7 +3,7 @@ layout: post
 title: Test Post
 date: 2020-05-03 13:32:20 +0300
 description: My first post! # Add post description (optional)
-img: wtcs.jpg # Add image post (optional)
+img: wtcs2.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 ---
 Where the Crawdads Sing is an intriguing novel about a sly, intelligent, reserved girl, Kya Clark, growing up in Barkley Cove. Based in 1969, this book is told in an episodic manner, jumping between a present day murder mystery and the upbringing of Kya. Kya finds comfort in the nature surrounding her after being abandoned by her family at a young age. This story takes the reader through her journey growing up, finding love, and dealing with the harsh judgements of the townspeople.
