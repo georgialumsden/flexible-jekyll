@@ -1,4 +1,4 @@
-title: Check out my reads!
+title: Georgia Reads
 description: > # this means to ignore newlines until "baseurl:"
   Check out my reads!
 permalink: ':title/'
@@ -9,8 +9,8 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Georgia Lumsden # add your name
-author-img: david-freeman.jpg # add your photo
-about-author: I love to read! # add description
+author-img: mountain.jpg # add your photo
+about-author: Check out what I have been reading! # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github:  # add your Github handle
