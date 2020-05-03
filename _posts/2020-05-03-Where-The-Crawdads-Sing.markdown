@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Test Post
-author: Mitchell Adam
+title: Where the Crawdads Sing
+author: Delia Owens
 date: 2020-05-03 13:32:20 +0300
 description: My first post! # Add post description (optional)
 img: wtcs2.png # Add image post (optional)
