@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Before We Were Strangers
-author: Renee Carlino
+author: Renée Carlino
 rating: 4.75/5
 date: 2021-04-07 09:24:20 +0300
 description: # Add post description (optional)
